@@ -22,3 +22,9 @@ Good Quality:
      this plot style. Although the expanding area property of pie charts hurts the effectiveness of 
      displaying numerical data, your plot did a good job of clearly explaining the sub-categories of
      mushroom type. The colors in this plot were color-blind compliant with all types of color-blindness.
+
+
+# FBB 
+you make good points and the review is well organized. but you filaed to put the plot in the markdown which was a requirement
+
+90%
